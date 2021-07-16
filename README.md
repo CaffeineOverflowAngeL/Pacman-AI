@@ -16,12 +16,12 @@ FoodSearchProblem: Search problem and heuristic for pacman to eat all active dot
 
   Project 2: Multiagents:
 
-*ReflexAgent: A reflex agent uses an evaluation function (aka heuristic function) to estimate the value of an action using the current * game state. The Reflex Agent considered 
+* ReflexAgent: A reflex agent uses an evaluation function (aka heuristic function) to estimate the value of an action using the current * game state. The Reflex Agent considered 
   
-*food locations and ghost locations, using reciprocals of distances as features.
+* food locations and ghost locations, using reciprocals of distances as features.
   
-*MinimaxAgent: A minimax agent is implemented using a minimax tree with multiple min layers (one for each ghost) for every max layer. The agent uses an evaluation function that evaluates states, and can sometimes choose to kill itself when believed this is the best choice.
+* MinimaxAgent: A minimax agent is implemented using a minimax tree with multiple min layers (one for each ghost) for every max layer. The agent uses an evaluation function that evaluates states, and can sometimes choose to kill itself when believed this is the best choice.
   
-*AlphaBetaAgent: An alpha beta agent uses alpha-beta pruning to explore the minimax tree.
+* AlphaBetaAgent: An alpha beta agent uses alpha-beta pruning to explore the minimax tree.
   
-*Expectimax: The expectimax pacman makes decisions using the expected value
+* Expectimax: The expectimax pacman makes decisions using the expected value
