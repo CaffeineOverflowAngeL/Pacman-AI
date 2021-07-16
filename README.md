@@ -13,6 +13,7 @@
 * CornersProblem: Search problem and heuristic for pacman to reach all active corner dots on board.
   
 * FoodSearchProblem: Search problem and heuristic for pacman to eat all active dots on board.
+  
 
   ## Project 2: Multiagents:
 
