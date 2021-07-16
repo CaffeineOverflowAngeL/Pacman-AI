@@ -1,8 +1,8 @@
 # <b> Pacman Artificial Intelligence Python project for UC Berkeley CS188 Intro to AI <b>
-  [Nesta CMS](http://ai.berkeley.edu/project_overview.html)
+  [Pac-Man Projects UC Berkeley](http://ai.berkeley.edu/project_overview.html)
 
   ## Project 1: Search:
-  [Nesta CMS](http://ai.berkeley.edu/search.html)
+  [Search](http://ai.berkeley.edu/search.html)
 
 * Depth-First Search (DFS): Graph search that avoids expanding already visited states. Fringe implemented via stack.
   
@@ -18,7 +18,7 @@
   
 
 ## Project 2: Multiagents:
-[Nesta CMS](http://ai.berkeley.edu/multiagent.html)
+[Multiagents](http://ai.berkeley.edu/multiagent.html)
 
 * ReflexAgent: A reflex agent uses an evaluation function (aka heuristic function) to estimate the value of an action using the current * game state. The Reflex Agent considered 
   
