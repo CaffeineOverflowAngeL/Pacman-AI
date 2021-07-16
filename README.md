@@ -15,7 +15,7 @@
 * FoodSearchProblem: Search problem and heuristic for pacman to eat all active dots on board.
   
 
-  ## Project 2: Multiagents:
+## Project 2: Multiagents:
 
 * ReflexAgent: A reflex agent uses an evaluation function (aka heuristic function) to estimate the value of an action using the current * game state. The Reflex Agent considered 
   
